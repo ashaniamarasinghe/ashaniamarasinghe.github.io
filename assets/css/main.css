@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #888;
+		color: #636262;
 		font-weight: 300;
 		font-size: 13pt;
 	}
@@ -2166,7 +2166,7 @@ input, select, textarea {
 			.default-blue{color:#43B3E0}
 			.underline{text-decoration:underline}
 			.item-header{font-style:bold}
-			.item-desc{font-size:13px}
+			.item-desc{font-size:14px}
 
 /* Large */
 
