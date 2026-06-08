@@ -2170,6 +2170,7 @@ input, select, textarea {
 			.default-blue{color:#43B3E0}
 			.underline{text-decoration:underline}
 			.item-header{font-style:bold}
+			.item-sub{font-size:0.85em}
 			.item-desc{font-size:14px}
 
 /* Large */
